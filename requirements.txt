@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+requests
+lxml
+pyspark
+apache-airflow
+jupyter
